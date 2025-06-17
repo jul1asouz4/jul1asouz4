@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">✨ Olá, eu sou a Júlia Souza! 👩🏽‍💻</h1>
 
-<!--
-**jul1asouz4/jul1asouz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de <strong>Gestão e Programação de Sistemas Informáticos</strong> <br>
+  2º Ano | Escola Digital 📚 | Lisboa 🇵🇹
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Sobre mim
+
+- 👩🏽‍🎓 Tenho 18 anos e estou no 2º ano do curso TGPSI
+- 👾 Gosto de programar em **C#**, trabalhar com **bases de dados** e criar **interfaces modernas**
+- 📚 Estou sempre a aprender mais sobre **HTML, CSS, MySQL e Cibersegurança**
+- 🧠 Interesse especial por **Criação de conteúdo digitais**, **Leitura** e **Edição de videos**
+
+---
+
+### 🛠️ Projetos em destaque
+
+- 📚 **Litly** – Biblioteca digital com login, listagem de livros, mensagens entre utilizadores e um chat interativo
+- 🎮 Jogo Interrogatório – Investigação criminal com programação orientada a objetos (POO)
+
+---
+
+### 💻 Tecnologias que uso
+
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contacto
+
+- 💌 Email: contactojuliasouza@gmail.com
+- 💼 LinkedIn: [[linkedin.com/in/juliasouza](https://linkedin.com) *(coloca teu perfil se tiveres)*](https://www.linkedin.com/in/j%C3%BAlia-souza-033a222a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 🧠 Sempre pronta para aprender e crescer!
+
+---
+
+<p align="center">✨ Um passo de cada vez!</strong> ✨</p>
+
