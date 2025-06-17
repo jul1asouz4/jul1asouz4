@@ -47,7 +47,7 @@
 ### 📫 Contacto
 
 - 💌 Email: contactojuliasouza@gmail.com
-- 💼 LinkedIn: [[linkedin.com/in/juliasouza](https://linkedin.com) *(coloca teu perfil se tiveres)*](https://www.linkedin.com/in/j%C3%BAlia-souza-033a222a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 💼 LinkedIn: https://www.linkedin.com/in/j%C3%BAlia-souza-033a222a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - 🧠 Sempre pronta para aprender e crescer!
 
 ---
