@@ -9,7 +9,7 @@
 
 ### 💡 Sobre mim
 
-- 👩🏽‍🎓 Tenho 18 anos e estou no 2º ano do curso TGPSI
+- 👩🏽‍🎓 Tenho 19 anos e estou no 2º ano do curso TGPSI
 - 👾 Gosto de programar em **C#**, trabalhar com **bases de dados** e criar **interfaces modernas**
 - 📚 Estou sempre a aprender mais sobre **HTML, CSS, MySQL e Cibersegurança**
 - 🧠 Interesse especial por **Criação de conteúdo digitais**, **Leitura** e **Edição de videos**
