@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de <strong>Gestão e Programação de Sistemas Informáticos</strong> <br>
-  2º Ano | Escola Digital 📚 | Lisboa 🇵🇹
+  3º Ano | Escola Digital 📚 | Lisboa 🇵🇹
 </p>
 
 ---
