@@ -20,6 +20,7 @@
 
 - 📚 **Litly** – Biblioteca digital com login, listagem de livros, mensagens entre utilizadores e um chat interativo
 - 🎮 Jogo Interrogatório – Investigação criminal com programação orientada a objetos (POO)
+- ✨ DreamQuest - Agência de viagens feita em MVC.
 
 ---
 
